@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price_INR,Revenue_INR
+NR-2025-0001,2025-01-01,USB-C Hub,Electronics,1,1499,1499
+NR-2025-0002,2025-01-03,Wireless Mouse,Electronics,1,799,799
+NR-2025-0003,2025-01-03,USB-C Hub,Electronics,2,1499,2998
+NR-2025-0004,2025-01-06,Notebook Set,Stationery,2,299,598
+NR-2025-0005,2025-01-08,Wireless Mouse,Electronics,5,799,3995
+NR-2025-0006,2025-01-12,Notebook Set,Stationery,1,299,299
+NR-2025-0007,2025-01-13,Wireless Mouse,Electronics,4,799,3196
+NR-2025-0008,2025-01-16,Notebook Set,Stationery,2,299,598
+NR-2025-0009,2025-01-17,USB-C Hub,Electronics,2,1499,2998
+NR-2025-0010,2025-01-18,Wireless Mouse,Electronics,1,799,799
+NR-2025-0011,2025-01-19,Wireless Mouse,Electronics,1,799,799
+NR-2025-0012,2025-01-21,Notebook Set,Stationery,1,299,299
+NR-2025-0013,2025-01-27,Wireless Mouse,Electronics,6,799,4794
+NR-2025-0014,2025-01-31,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0015,2025-02-06,Notebook Set,Stationery,2,299,598
+NR-2025-0016,2025-02-09,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0017,2025-02-11,USB-C Hub,Electronics,5,1499,7495
+NR-2025-0018,2025-02-15,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0019,2025-02-15,Notebook Set,Stationery,1,299,299
+NR-2025-0020,2025-02-17,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0021,2025-02-18,Wireless Mouse,Electronics,4,799,3196
+NR-2025-0022,2025-02-19,Desk Organizer,Office Supplies,1,599,599
+NR-2025-0023,2025-02-24,Wireless Mouse,Electronics,1,799,799
+NR-2025-0024,2025-02-25,Desk Organizer,Office Supplies,2,599,1198
+NR-2025-0025,2025-02-26,Notebook Set,Stationery,5,299,1495
+NR-2025-0026,2025-02-27,Wireless Mouse,Electronics,5,799,3995
+NR-2025-0027,2025-02-27,Desk Organizer,Office Supplies,2,599,1198
+NR-2025-0028,2025-03-01,Desk Organizer,Office Supplies,2,599,1198
+NR-2025-0029,2025-03-05,Wireless Mouse,Electronics,1,799,799
+NR-2025-0030,2025-03-08,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0031,2025-03-10,Desk Organizer,Office Supplies,6,599,3594
+NR-2025-0032,2025-03-11,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0033,2025-03-13,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0034,2025-03-17,Desk Organizer,Office Supplies,5,599,2995
+NR-2025-0035,2025-03-17,Desk Organizer,Office Supplies,1,599,599
+NR-2025-0036,2025-03-17,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0037,2025-03-18,Desk Organizer,Office Supplies,3,599,1797
+NR-2025-0038,2025-03-18,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0039,2025-03-19,USB-C Hub,Electronics,5,1499,7495
+NR-2025-0040,2025-03-19,Notebook Set,Stationery,2,299,598
+NR-2025-0041,2025-03-19,Wireless Mouse,Electronics,5,799,3995
+NR-2025-0042,2025-03-27,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0043,2025-03-30,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0044,2025-04-01,USB-C Hub,Electronics,2,1499,2998
+NR-2025-0045,2025-04-08,Wireless Mouse,Electronics,1,799,799
+NR-2025-0046,2025-04-12,Desk Organizer,Office Supplies,2,599,1198
+NR-2025-0047,2025-04-12,USB-C Hub,Electronics,3,1499,4497
+NR-2025-0048,2025-04-17,Notebook Set,Stationery,2,299,598
+NR-2025-0049,2025-04-18,USB-C Hub,Electronics,4,1499,5996
+NR-2025-0050,2025-04-19,Desk Organizer,Office Supplies,6,599,3594
+NR-2025-0051,2025-04-21,Desk Organizer,Office Supplies,1,599,599
+NR-2025-0052,2025-04-22,Desk Organizer,Office Supplies,2,599,1198
+NR-2025-0053,2025-04-23,Notebook Set,Stationery,2,299,598
+NR-2025-0054,2025-04-24,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0055,2025-04-25,Wireless Mouse,Electronics,1,799,799
+NR-2025-0056,2025-04-28,USB-C Hub,Electronics,4,1499,5996
+NR-2025-0057,2025-04-29,Wireless Mouse,Electronics,4,799,3196
+NR-2025-0058,2025-04-29,Desk Organizer,Office Supplies,1,599,599
+NR-2025-0059,2025-05-02,Notebook Set,Stationery,2,299,598
+NR-2025-0060,2025-05-07,Notebook Set,Stationery,2,299,598
+NR-2025-0061,2025-05-08,Notebook Set,Stationery,1,299,299
+NR-2025-0062,2025-05-09,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0063,2025-05-09,Notebook Set,Stationery,3,299,897
+NR-2025-0064,2025-05-10,USB-C Hub,Electronics,3,1499,4497
+NR-2025-0065,2025-05-11,Notebook Set,Stationery,6,299,1794
+NR-2025-0066,2025-05-13,Notebook Set,Stationery,2,299,598
+NR-2025-0067,2025-05-19,Notebook Set,Stationery,3,299,897
+NR-2025-0068,2025-05-20,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0069,2025-05-20,USB-C Hub,Electronics,5,1499,7495
+NR-2025-0070,2025-05-21,USB-C Hub,Electronics,5,1499,7495
+NR-2025-0071,2025-05-21,Desk Organizer,Office Supplies,4,599,2396
+NR-2025-0072,2025-05-22,Wireless Mouse,Electronics,1,799,799
+NR-2025-0073,2025-05-22,Desk Organizer,Office Supplies,2,599,1198
+NR-2025-0074,2025-05-25,USB-C Hub,Electronics,2,1499,2998
+NR-2025-0075,2025-05-31,Wireless Mouse,Electronics,1,799,799
+NR-2025-0076,2025-06-01,USB-C Hub,Electronics,1,1499,1499
+NR-2025-0077,2025-06-04,Notebook Set,Stationery,1,299,299
+NR-2025-0078,2025-06-05,Notebook Set,Stationery,2,299,598
+NR-2025-0079,2025-06-10,Notebook Set,Stationery,1,299,299
+NR-2025-0080,2025-06-12,Notebook Set,Stationery,6,299,1794
+NR-2025-0081,2025-06-15,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0082,2025-06-17,Wireless Mouse,Electronics,4,799,3196
+NR-2025-0083,2025-06-18,USB-C Hub,Electronics,6,1499,8994
+NR-2025-0084,2025-06-23,USB-C Hub,Electronics,2,1499,2998
+NR-2025-0085,2025-06-23,Wireless Mouse,Electronics,1,799,799
+NR-2025-0086,2025-06-25,Notebook Set,Stationery,1,299,299
+NR-2025-0087,2025-06-27,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0088,2025-06-27,USB-C Hub,Electronics,6,1499,8994
+NR-2025-0089,2025-06-30,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0090,2025-06-30,Desk Organizer,Office Supplies,2,599,1198
+NR-2025-0091,2025-07-02,Notebook Set,Stationery,1,299,299
+NR-2025-0092,2025-07-04,Notebook Set,Stationery,3,299,897
+NR-2025-0093,2025-07-05,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0094,2025-07-08,Desk Organizer,Office Supplies,2,599,1198
+NR-2025-0095,2025-07-09,USB-C Hub,Electronics,2,1499,2998
+NR-2025-0096,2025-07-09,Wireless Mouse,Electronics,1,799,799
+NR-2025-0097,2025-07-09,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0098,2025-07-14,Wireless Mouse,Electronics,1,799,799
+NR-2025-0099,2025-07-22,Notebook Set,Stationery,1,299,299
+NR-2025-0100,2025-07-27,Desk Organizer,Office Supplies,5,599,2995
+NR-2025-0101,2025-07-27,Notebook Set,Stationery,1,299,299
+NR-2025-0102,2025-07-30,Wireless Mouse,Electronics,4,799,3196
+NR-2025-0103,2025-08-02,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0104,2025-08-04,Notebook Set,Stationery,1,299,299
+NR-2025-0105,2025-08-04,Notebook Set,Stationery,2,299,598
+NR-2025-0106,2025-08-05,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0107,2025-08-05,Notebook Set,Stationery,3,299,897
+NR-2025-0108,2025-08-07,Wireless Mouse,Electronics,1,799,799
+NR-2025-0109,2025-08-18,Wireless Mouse,Electronics,4,799,3196
+NR-2025-0110,2025-08-18,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0111,2025-08-19,USB-C Hub,Electronics,1,1499,1499
+NR-2025-0112,2025-08-20,Wireless Mouse,Electronics,1,799,799
+NR-2025-0113,2025-08-22,Wireless Mouse,Electronics,1,799,799
+NR-2025-0114,2025-08-22,Notebook Set,Stationery,4,299,1196
+NR-2025-0115,2025-08-25,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0116,2025-08-31,Notebook Set,Stationery,2,299,598
+NR-2025-0117,2025-09-04,Notebook Set,Stationery,1,299,299
+NR-2025-0118,2025-09-04,Notebook Set,Stationery,2,299,598
+NR-2025-0119,2025-09-05,Notebook Set,Stationery,3,299,897
+NR-2025-0120,2025-09-06,Wireless Mouse,Electronics,4,799,3196
+NR-2025-0121,2025-09-11,Notebook Set,Stationery,3,299,897
+NR-2025-0122,2025-09-12,Desk Organizer,Office Supplies,3,599,1797
+NR-2025-0123,2025-09-13,Wireless Mouse,Electronics,1,799,799
+NR-2025-0124,2025-09-14,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0125,2025-09-15,Desk Organizer,Office Supplies,1,599,599
+NR-2025-0126,2025-09-15,Notebook Set,Stationery,3,299,897
+NR-2025-0127,2025-09-16,USB-C Hub,Electronics,1,1499,1499
+NR-2025-0128,2025-09-17,Notebook Set,Stationery,2,299,598
+NR-2025-0129,2025-09-20,Notebook Set,Stationery,3,299,897
+NR-2025-0130,2025-09-21,USB-C Hub,Electronics,2,1499,2998
+NR-2025-0131,2025-09-25,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0132,2025-09-27,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0133,2025-09-27,Wireless Mouse,Electronics,6,799,4794
+NR-2025-0134,2025-09-30,Notebook Set,Stationery,2,299,598
+NR-2025-0135,2025-10-04,Notebook Set,Stationery,1,299,299
+NR-2025-0136,2025-10-04,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0137,2025-10-05,Notebook Set,Stationery,1,299,299
+NR-2025-0138,2025-10-06,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0139,2025-10-06,Notebook Set,Stationery,1,299,299
+NR-2025-0140,2025-10-07,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0141,2025-10-10,Notebook Set,Stationery,2,299,598
+NR-2025-0142,2025-10-11,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0143,2025-10-13,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0144,2025-10-14,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0145,2025-10-16,Notebook Set,Stationery,2,299,598
+NR-2025-0146,2025-10-17,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0147,2025-10-21,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0148,2025-10-23,Desk Organizer,Office Supplies,4,599,2396
+NR-2025-0149,2025-10-24,Notebook Set,Stationery,1,299,299
+NR-2025-0150,2025-10-25,Wireless Mouse,Electronics,1,799,799
+NR-2025-0151,2025-10-26,Wireless Mouse,Electronics,4,799,3196
+NR-2025-0152,2025-10-26,Desk Organizer,Office Supplies,1,599,599
+NR-2025-0153,2025-10-27,Notebook Set,Stationery,2,299,598
+NR-2025-0154,2025-10-30,Desk Organizer,Office Supplies,1,599,599
+NR-2025-0155,2025-11-03,Notebook Set,Stationery,2,299,598
+NR-2025-0156,2025-11-04,Notebook Set,Stationery,1,299,299
+NR-2025-0157,2025-11-04,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0158,2025-11-05,Notebook Set,Stationery,1,299,299
+NR-2025-0159,2025-11-06,Desk Organizer,Office Supplies,1,599,599
+NR-2025-0160,2025-11-09,USB-C Hub,Electronics,5,1499,7495
+NR-2025-0161,2025-11-10,USB-C Hub,Electronics,1,1499,1499
+NR-2025-0162,2025-11-11,USB-C Hub,Electronics,1,1499,1499
+NR-2025-0163,2025-11-12,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0164,2025-11-12,Notebook Set,Stationery,4,299,1196
+NR-2025-0165,2025-11-14,Desk Organizer,Office Supplies,3,599,1797
+NR-2025-0166,2025-11-14,USB-C Hub,Electronics,3,1499,4497
+NR-2025-0167,2025-11-15,USB-C Hub,Electronics,2,1499,2998
+NR-2025-0168,2025-11-16,Desk Organizer,Office Supplies,2,599,1198
+NR-2025-0169,2025-11-16,Wireless Mouse,Electronics,1,799,799
+NR-2025-0170,2025-11-17,Wireless Mouse,Electronics,4,799,3196
+NR-2025-0171,2025-11-17,Notebook Set,Stationery,1,299,299
+NR-2025-0172,2025-11-21,Desk Organizer,Office Supplies,4,599,2396
+NR-2025-0173,2025-11-21,Wireless Mouse,Electronics,1,799,799
+NR-2025-0174,2025-11-25,Desk Organizer,Office Supplies,2,599,1198
+NR-2025-0175,2025-11-26,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0176,2025-11-27,Desk Organizer,Office Supplies,3,599,1797
+NR-2025-0177,2025-11-27,Wireless Mouse,Electronics,1,799,799
+NR-2025-0178,2025-11-28,USB-C Hub,Electronics,5,1499,7495
+NR-2025-0179,2025-12-03,Wireless Mouse,Electronics,1,799,799
+NR-2025-0180,2025-12-07,USB-C Hub,Electronics,5,1499,7495
+NR-2025-0181,2025-12-08,Notebook Set,Stationery,2,299,598
+NR-2025-0182,2025-12-08,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0183,2025-12-09,USB-C Hub,Electronics,3,1499,4497
+NR-2025-0184,2025-12-12,USB-C Hub,Electronics,1,1499,1499
+NR-2025-0185,2025-12-13,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0186,2025-12-13,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0187,2025-12-14,Wireless Mouse,Electronics,3,799,2397
+NR-2025-0188,2025-12-14,Notebook Set,Stationery,5,299,1495
+NR-2025-0189,2025-12-15,Notebook Set,Stationery,2,299,598
+NR-2025-0190,2025-12-16,Notebook Set,Stationery,1,299,299
+NR-2025-0191,2025-12-17,Wireless Mouse,Electronics,6,799,4794
+NR-2025-0192,2025-12-17,Wireless Mouse,Electronics,1,799,799
+NR-2025-0193,2025-12-18,Notebook Set,Stationery,3,299,897
+NR-2025-0194,2025-12-18,USB-C Hub,Electronics,2,1499,2998
+NR-2025-0195,2025-12-18,Desk Organizer,Office Supplies,1,599,599
+NR-2025-0196,2025-12-19,Wireless Mouse,Electronics,2,799,1598
+NR-2025-0197,2025-12-19,Notebook Set,Stationery,2,299,598
+NR-2025-0198,2025-12-24,Notebook Set,Stationery,5,299,1495
+NR-2025-0199,2025-12-25,Wireless Mouse,Electronics,4,799,3196
+NR-2025-0200,2025-12-30,Wireless Mouse,Electronics,4,799,3196
